@@ -1,0 +1,13 @@
+CHEATSHEET GIT GITHUB
+//En posible orden de pasos
+git init: sirve para iniciar un repositorio
+git add "nombreArchivo": agrega el archivo mencionado
+git add .: agrega todos los archivos
+git commit -m "mensaje": comitea los cambios hechos con un mensaje
+git config user.name "nombreUsuario": agrega identidad de GITHUB
+git config user.email "nombreUsuario@email.com": agrega email de GITHUB
+git push origin main: sube archivos al repositorio remoto
+git pull origin main: baja archivos del repositorio remoto
+git branch <nombre_rama>: crea una nombre_rama
+git checkout <nombre_rama>: cambiar entre ramas
+git status: da seguimiento del estado de los archivos
