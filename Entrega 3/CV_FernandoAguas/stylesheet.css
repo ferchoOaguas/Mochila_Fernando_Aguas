@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'open Sans', sans-serif;
+}
+
+/* Contenedor con foto, nombre, perfil 
+y botón hacia 'About me' */
+#infoHeader{    
+    bottom: 142px;
+    width: 1024px;
+    height: 284px;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+#nombrePerfil{
+    position: relative;
+    right: 60px;
+    top: 60px;
+    box-sizing: border-box;
+}
+
+.aboutMeBt{
+    position: relative;
+    top: 65px;
+    width: 111px;
+    height: 50px;
+    border-radius: 13px;
+    padding: 13px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: #55808B;
+    border: #55808B solid 2px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.aboutMeBt:hover{
+    background-color: #55808B;
+    color: white;
+}
+
+
+/* Comienzo el contenido */
+main{
+    width: 1024px;
+    bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    position: relative;
+    box-sizing: border-box;
+}
+
+/* Cabeceras */
+h3{ 
+    width: 400px;
+    background: #55808B;
+    color: white;
+    padding: 13px;
+}
+
+#skills{
+    margin-top: 30px;
+}
+
+/* Formato para mostrar lista de experiencia */
+#bloque{
+    position: relative;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+#lista{
+    margin: 20px 13px;
+}
+
+#encabezado{
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#detalles{
+    font-style: normal;
+    font-size: small;
+}
+
+/* Íconos skills */
+#skillsIconos{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+/* Comienzo footer */
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0px 80px;
+    width: 1024px;
+    height: 100px;
+    background: #223D53;
+    box-sizing: border-box;
+}
+
+#redes{
+    display: flex;
+    width: 369px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#correo{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#footerTx{
+    color: white;
+}
+
+/* Pagina About Me */
+.aboutMe{
+    display: flex;
+    align-items: start;
+}
+
+#descripcionPerfil{
+    width: 518px;
+    padding: 80px 20px 0px 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    box-sizing: border-box;
+}
+
+#regresarBt{
+    display: flex;
+    align-items: center;
+}
+
+#fotoAboutMe{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#aboutMeLb{
+    display: flex;
+    position: relative;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    right: 10px;
+}
+
+#aboutMeTx{
+    width: 300px;
+}
