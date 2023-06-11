@@ -1,0 +1,35 @@
+ 1. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+ El sistema de control de versiones Git fue creado por Linus Torvalds en 2005. Linus Torvalds es conocido principalmente por ser el creador y desarrollador principal del kernel de Linux.
+
+Linus Torvalds creó Git para abordar las necesidades de desarrollo del kernel de Linux y para superar las limitaciones de otros sistemas de control de versiones existentes en ese momento. Antes de Git, el proyecto del kernel de Linux utilizaba un sistema llamado BitKeeper, pero debido a ciertos problemas y restricciones de licencia, la comunidad decidió buscar una alternativa.
+
+Torvalds decidió diseñar y desarrollar su propio sistema de control de versiones distribuido, que pudiera manejar la escala y la complejidad del desarrollo colaborativo del kernel de Linux. Git se basa en conceptos clave, como la capacidad de trabajar de forma distribuida, la velocidad y la integridad de los datos.
+
+El enfoque distribuido de Git permite que múltiples desarrolladores trabajen en paralelo sin depender de un repositorio centralizado. Además, su diseño optimizado y su capacidad para manejar grandes proyectos con eficiencia lo han convertido en una herramienta ampliamente utilizada en la comunidad de desarrollo de software en todo el mundo.
+
+En resumen, Linus Torvalds inventó Git para satisfacer las necesidades específicas del desarrollo del kernel de Linux y proporcionar un sistema de control de versiones eficiente, distribuido y de código abierto.
+
+2. ¿A quién pertenece actualmente Github y por qué?
+
+GitHub fue adquirido por Microsoft en junio de 2018. Microsoft es una de las mayores empresas de tecnología del mundo y ha estado invirtiendo y expandiéndose en el ámbito del software de desarrollo durante varios años.
+
+La adquisición de GitHub por parte de Microsoft fue motivada por varios factores. En primer lugar, GitHub era una plataforma extremadamente popular y ampliamente utilizada por desarrolladores de software en todo el mundo. La comunidad de GitHub estaba compuesta por millones de desarrolladores y proyectos de código abierto, lo que le otorgaba un valor significativo.
+
+Además, Microsoft ya tenía su propio sistema de control de versiones llamado Team Foundation Version Control (TFVC), pero Git se había convertido en el estándar de facto en la industria del desarrollo de software. La adquisición de GitHub permitió a Microsoft entrar en el mercado del control de versiones distribuido y fortalecer su presencia en la comunidad de desarrolladores.
+
+Microsoft ha mantenido GitHub como una plataforma independiente y ha seguido invirtiendo en su desarrollo y expansión. La adquisición ha sido vista generalmente de manera positiva, ya que Microsoft ha demostrado un compromiso continuo con el software de código abierto y ha trabajado para mejorar y ampliar las capacidades de GitHub.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Sí, existen varias formas de trabajar con GitHub sin tener que utilizar exclusivamente la terminal. Aquí tienes algunas opciones:
+
+- Interfaz web de GitHub: GitHub proporciona una interfaz web intuitiva y completa que permite realizar la mayoría de las operaciones de control de versiones, como crear repositorios, clonar repositorios existentes, crear y gestionar ramas, realizar cambios en los archivos, realizar solicitudes de extracción (pull requests), gestionar problemas (issues), entre otras cosas. Puedes acceder a la interfaz web de GitHub a través de tu navegador.
+
+- Aplicaciones de escritorio de GitHub: GitHub ofrece aplicaciones de escritorio para Windows y Mac que brindan una interfaz gráfica para trabajar con repositorios de GitHub. Estas aplicaciones permiten clonar repositorios, realizar cambios, sincronizar con el repositorio remoto, administrar ramas y muchas otras funcionalidades.
+
+- Clientes Git con interfaz gráfica: Además de las aplicaciones de escritorio de GitHub, hay otros clientes Git que ofrecen interfaces gráficas para interactuar con repositorios de GitHub. Algunos ejemplos populares incluyen SourceTree, GitKraken y TortoiseGit. Estas herramientas proporcionan una experiencia visual y simplificada para trabajar con Git y GitHub.
+
+- Integración en entornos de desarrollo (IDE): Muchos entornos de desarrollo como Visual Studio Code, IntelliJ IDEA, Eclipse, entre otros, ofrecen extensiones o complementos que facilitan la integración con GitHub. Estas extensiones permiten realizar operaciones de control de versiones directamente desde el IDE, como clonar repositorios, crear ramas, realizar cambios y realizar solicitudes de extracción.
+
+Estas opciones proporcionan interfaces visuales y simplificadas para trabajar con GitHub, lo que puede ser especialmente útil para aquellos que no están familiarizados con la línea de comandos o prefieren una experiencia más visual.
