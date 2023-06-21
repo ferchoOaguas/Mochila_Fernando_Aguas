@@ -1,0 +1,5 @@
+Direccion MAC
+HWaddr 08:00:27:dd:1a:2d
+
+Direccion ip  
+inet addr:10.0.2.15
